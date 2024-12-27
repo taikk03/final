@@ -1,0 +1,20 @@
+[LOG] Initializing Game ...
+[LOG] Initialized Allegro
+[LOG] Initialized Window Display
+[LOG] Initialized Event Queue and Source
+[LOG] Change scene from NULL to menu
+[LOG] Scene menu created, initializing ... 
+[LOG] Start Game Event Loop
+[LOG] Key 67 down
+[LOG] Change scene from menu to loading
+[LOG] No BGM File found [None], no sound will be played
+[LOG] Key 67 up
+[LOG] Change scene from loading to game
+[LOG] Using Assets/map0.txt to load the map
+[LOG] Creating Enemy at ( 6, 3 )
+[LOG] Creating Enemy at ( 15, 3 )
+[LOG] coord x:1 
+ coords y:3 
+
+[LOG] Window close button pressed
+[LOG] Terminating ...

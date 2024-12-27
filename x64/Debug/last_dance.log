@@ -1,0 +1,9 @@
+﻿  bullet.c
+  enemy.c
+  game_scene.c
+C:\Users\williamtsai\Desktop\last_dance\last_dance\Src\bullet.c(72,22): warning C4133: 'function': incompatible types - from 'enemyNode *' to 'Enemy *'
+  map.c
+  player.c
+  weapon.c
+  Generating Code...
+  last_dance.vcxproj -> C:\Users\williamtsai\Desktop\last_dance\x64\Debug\last_dance.exe
